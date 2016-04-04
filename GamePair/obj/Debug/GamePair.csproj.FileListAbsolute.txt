@@ -1,0 +1,11 @@
+C:\Users\admin\Documents\Visual Studio 2012\GamePair\GamePair\bin\Debug\GamePair.exe.config
+C:\Users\admin\Documents\Visual Studio 2012\GamePair\GamePair\bin\Debug\GamePair.exe
+C:\Users\admin\Documents\Visual Studio 2012\GamePair\GamePair\bin\Debug\GamePair.pdb
+C:\Users\admin\Documents\Visual Studio 2012\GamePair\GamePair\obj\Debug\GamePair.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\GamePair\GamePair\obj\Debug\GamePair.Form1.resources
+C:\Users\admin\Documents\Visual Studio 2012\GamePair\GamePair\obj\Debug\GamePair.Properties.Resources.resources
+C:\Users\admin\Documents\Visual Studio 2012\GamePair\GamePair\obj\Debug\GamePair.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Visual Studio 2012\GamePair\GamePair\obj\Debug\GamePair.exe
+C:\Users\admin\Documents\Visual Studio 2012\GamePair\GamePair\obj\Debug\GamePair.pdb
+C:\Users\admin\Documents\Visual Studio 2012\GamePair\GamePair\obj\Debug\GamePair.Form2.resources
+C:\Users\admin\Documents\Visual Studio 2012\GamePair\GamePair\obj\Debug\GamePair.Form3.resources
